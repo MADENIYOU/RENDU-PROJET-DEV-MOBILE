@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gestion de taches</string>
+    <string-array name="spinner_options">
+        <item>Todo</item>
+        <item>In Progress</item>
+        <item>Done</item>
+        <item>Bug</item>
+    </string-array>
+</resources>
